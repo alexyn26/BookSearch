@@ -38,5 +38,5 @@ const typeDefs = gql`
     removeBook(bookId: String!): User
   }
 `;
-s
+
 module.exports = typeDefs;
